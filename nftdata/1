@@ -1,5 +1,5 @@
 {
-    "image": "https://gateway.pinata.cloud/ipfs/QmW6AG5xsheVWVP7hAHWBoqfhxycwFy2M4krk1juvAq2GC",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYWbLRqtwJxVUsx2HCaSswu1Dke5yChdLTfNCvGmX2f8q",
     "name": "MysteryBox Warrior #1",
     "description": "MysteryBox Defi. That Things Never Happened in DEFI Layered Farming, NFT Farm Boost and Gaming, Gambling and Random Box System.",
     "attributes": [
@@ -30,6 +30,6 @@
     {
         "trait_type": "Color",
         "value": "red"
-    },
+    }
   ]
 }
