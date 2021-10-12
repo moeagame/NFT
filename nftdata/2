@@ -8,7 +8,7 @@
         "value": "Epic"
     },
     {
-        "trait_type": "Horn",
+        "trait_type": "Horns",
         "value": "red"
     },
     {
@@ -25,10 +25,6 @@
     },
     {
         "trait_type": "Tail",
-        "value": "red"
-    },
-    {
-        "trait_type": "Color",
         "value": "red"
     }
   ]
