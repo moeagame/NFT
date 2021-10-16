@@ -1,6 +1,6 @@
 {
-    "image": "https://gateway.pinata.cloud/ipfs/QmPtzKhsRxraYvGkiZhx4Go7Ev1iqLtDPJaDm3TwGEWyzo/original%204.png",
-    "name": "Mystery Warriors No.4",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPtzKhsRxraYvGkiZhx4Go7Ev1iqLtDPJaDm3TwGEWyzo/limited1.png",
+    "name": "Mystery Warriors No.5",
     "description": "MysteryBox Defi NFTs.The Original Version NFT of Mystery Universe. Also use in the NFT Game [ Mystery Wars ]. ",
     "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
         "trait_type": "Class",
-        "value": "Tanker"
+        "value": "Ancient"
     },
     {
         "trait_type": "Level",
@@ -17,23 +17,23 @@
     },
     {
         "trait_type": "HP",
-        "value": "32"
+        "value": "40"
     },
     {
         "trait_type": "MP",
-        "value": "8"
+        "value": "15"
     },
     {
         "trait_type": "ATK",
-        "value": "10"
+        "value": "25"
     },
     {
         "trait_type": "DEF",
-        "value": "20"
+        "value": "25"
     },
     {
         "trait_type": "Endurance",
-        "value": "300"
+        "value": "400"
     }
   ]
 }

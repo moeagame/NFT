@@ -1,0 +1,12 @@
+0 : Reserve
+1 : L original 1
+2 : L original 2
+3 : L original 3
+4 : L original 4
+5 : L original 5
+6 : L original 6
+7 : L original 7
+8 : limited 1
+9 : L original 8
+10 : L original 9
+11 : L original 10
