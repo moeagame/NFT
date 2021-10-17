@@ -1,0 +1,39 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmPtzKhsRxraYvGkiZhx4Go7Ev1iqLtDPJaDm3TwGEWyzo/limited1.png",
+    "name": "Mystery Warrior No.14",
+    "description": "MysteryBox Defi NFTs.The Original Version NFT of Mystery Universe. Also use in the NFT Game [ Mystery Wars ]. ",
+    "attributes": [
+    {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+    },
+    {
+        "trait_type": "Class",
+        "value": "Tanker"
+    },
+    {
+        "trait_type": "Level",
+        "value": "1"
+    },
+    {
+        "trait_type": "HP",
+        "value": "45"
+    },
+    {
+        "trait_type": "MP",
+        "value": "5"
+    },
+    {
+        "trait_type": "ATK",
+        "value": "5"
+    },
+    {
+        "trait_type": "DEF",
+        "value": "40"
+    },
+    {
+        "trait_type": "Endurance",
+        "value": "300"
+    }
+  ]
+}
