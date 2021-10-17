@@ -1,6 +1,6 @@
 {
-    "image": "https://gateway.pinata.cloud/ipfs/QmP2vtaCxVpKyH3Vd9PYVSWg6WxjvekFp1RrNCupDC3ui5/original%2011.png",
-    "name": "Mystery Warrior No.12",
+    "image": "https://gateway.pinata.cloud/ipfs/QmP2vtaCxVpKyH3Vd9PYVSWg6WxjvekFp1RrNCupDC3ui5/original%2015.png",
+    "name": "Mystery Warrior No.16",
     "description": "MysteryBox Defi NFTs.The Original Version NFT of Mystery Universe. Also use in the NFT Game [ Mystery Wars ]. ",
     "attributes": [
     {
@@ -25,11 +25,11 @@
     },
     {
         "trait_type": "ATK",
-        "value": "22"
+        "value": "33"
     },
     {
         "trait_type": "DEF",
-        "value": "11"
+        "value": "14"
     },
     {
         "trait_type": "Endurance",
