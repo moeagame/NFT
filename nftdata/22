@@ -1,0 +1,39 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmYb3hfoeT2Ya38Vqmy7pqWkVd8gUwAxmevYhfdJzfdy1e",
+    "name": "Mystery Warrior No.22",
+    "description": "MysteryBox Defi NFTs.The Original Version NFT of Mystery Universe. Also use in the NFT Game [ Mystery Wars ]. ",
+    "attributes": [
+    {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+    },
+    {
+        "trait_type": "Class",
+        "value": "Ancient"
+    },
+    {
+        "trait_type": "Level",
+        "value": "1"
+    },
+    {
+        "trait_type": "HP",
+        "value": "45"
+    },
+    {
+        "trait_type": "MP",
+        "value": "27"
+    },
+    {
+        "trait_type": "ATK",
+        "value": "35"
+    },
+    {
+        "trait_type": "DEF",
+        "value": "30"
+    },
+    {
+        "trait_type": "Endurance",
+        "value": "400"
+    }
+  ]
+}
